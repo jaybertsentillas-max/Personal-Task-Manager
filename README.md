@@ -27,4 +27,4 @@
 ## 📌 Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jaybertsentillas-max/Personal-Task-Manager.git](https://github.com/jaybertsentillas-max/Personal-Task-Manager.git)
+   git clone [https://github.com/jaybertsentillas-max/Personal-Task-Manager.git]
