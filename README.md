@@ -16,6 +16,22 @@
 
 ---
 
+## 📸 Application Screenshots
+
+### Main Dashboard (Empty State)
+![Main Dashboard](root/t.png)
+
+### Add New Task Form
+![Add Task Form](root/a.png)
+
+### Edit Task Form
+![Edit Task Form](root/s.png)
+
+### Task Deleted Notification
+![Task Deleted Notification](root/k.png)
+
+---
+
 ## 🛠️ Tech Stack
 - **Framework:** Laravel 11
 - **Frontend:** Blade Templates, Tailwind CSS (CDN), FontAwesome
@@ -27,4 +43,4 @@
 ## 📌 Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jaybertsentillas-max/Personal-Task-Manager.git]
+   git clone [https://github.com/jaybertsentillas-max/Personal-Task-Manager.git](https://github.com/jaybertsentillas-max/Personal-Task-Manager.git)
